@@ -28,7 +28,7 @@ let platos = [
         nombre: 'Espárragos blancos',
         descripcion: 'Espárragos blancos con vinagreta de verduras y jamón ibérico',
         precio: 'U$S 37.50',
-        imagen: '/images/esparragos.jpg'
+        imagen: '/images/esparragos.png'
     }
 ]
 const controller = {
