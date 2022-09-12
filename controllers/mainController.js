@@ -19,7 +19,7 @@ let platos = [
         id: 3,
         nombre: 'Mousse de arroz',
         descripcion: 'Mousse de arroz con leche y aroma de azahar',
-        precio: 'U$S 27.50',
+        precio: 'U$S 60.50',
         imagen: '/images/Mousse-de-arroz-con-leche.jpg'
     },
 
@@ -28,7 +28,7 @@ let platos = [
         nombre: 'Espárragos blancos',
         descripcion: 'Espárragos blancos con vinagreta de verduras y jamón ibérico',
         precio: 'U$S 37.50',
-        imagen: '/images/esparragos.jpg'
+        imagen: '/images/esparragos.png'
     }
     
 ]
